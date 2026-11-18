@@ -1,0 +1,9 @@
+Team Project
+
+This file is used to demonstrate collaboration using GitHub.
+
+Team members:
+- Alex Martin
+- Daniel Weiand
+
+Project ideas:
