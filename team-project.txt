@@ -7,3 +7,6 @@ Team members:
 - Daniel Weiand
 
 Project ideas:
+- Poem
+
+"roses are red...
