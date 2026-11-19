@@ -7,3 +7,34 @@ Team members:
 - Daniel Weiand
 
 Project ideas:
+- Poem
+
+"Roses are red,
+violets are blue,
+the sun climbs slowly
+over the hills we knew.
+
+Morning spills gold
+on the sleeping town,
+and every window
+wears a little crown.
+
+The river hums a tune
+it learned long ago,
+while willows bend to listen
+and bees begin to glow.
+
+We walked the winding path
+where daisies lean and sway,
+and talked of all the things
+we hoped to be someday.
+
+Clouds drift like sailing ships
+across a sea of sky,
+carrying our wishes
+to wherever wishes fly.
+
+Night folds the world in blankets,
+stitched with silver light,
+and whispers to the sleepers
+that everything is right."
