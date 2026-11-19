@@ -7,3 +7,4 @@ Team members:
 - Daniel Weiand
 
 Project ideas:
+- Teaching about R and coding
